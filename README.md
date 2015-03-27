@@ -1,2 +1,2 @@
 # UppgifterdotNet
-Samtliga uppgifter för dotNET utbildningen
+Samtliga uppgifter för dotNET utbildningen kommer hittas här
