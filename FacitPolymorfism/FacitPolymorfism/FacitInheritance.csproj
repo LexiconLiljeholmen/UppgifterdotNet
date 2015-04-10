@@ -7,7 +7,7 @@
     <ProjectGuid>{5152623A-FC5E-4ED3-8716-01ADA4F76D4E}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>FacitPolymorfism</RootNamespace>
+    <RootNamespace>FacitInheritance</RootNamespace>
     <AssemblyName>FacitPolymorfism</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>

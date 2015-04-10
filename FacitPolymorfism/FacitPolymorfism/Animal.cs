@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace FacitPolymorfism
+namespace FacitInheritance
 {
     /// <summary>
     /// Super class for all Animals

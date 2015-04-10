@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacitPolymorfism", "FacitPolymorfism\FacitPolymorfism.csproj", "{5152623A-FC5E-4ED3-8716-01ADA4F76D4E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacitInheritance", "FacitPolymorfism\FacitInheritance.csproj", "{5152623A-FC5E-4ED3-8716-01ADA4F76D4E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
